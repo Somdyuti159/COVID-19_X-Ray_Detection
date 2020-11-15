@@ -1,4 +1,4 @@
-# COVID-19_X-Ray_Detection
+# COVID-19 X-Ray Detection
 
 **Abstract:**
 
